@@ -1,6 +1,6 @@
 {
-  "files": 14,
-  "bytes": 44113,
+  "files": 17,
+  "bytes": 54067,
   "entries": [
     {
       "path": ".gitignore",
@@ -13,9 +13,14 @@
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "README.en.md",
+      "bytes": 3397,
+      "sha256": "c853d782ba1b46c021f49092300084c5f625ec311cbd77ec65b094f582bbeef4"
+    },
+    {
       "path": "README.md",
-      "bytes": 927,
-      "sha256": "a980b0f0c8c333dfa323c51a95aaadd3cb3e5587bad98045f0d6167a91bf72fb"
+      "bytes": 3132,
+      "sha256": "de03121e0c264095b4e775d0f38d2ab95a11284424a3f6c20f4e4a5ead045f8d"
     },
     {
       "path": "skill/emoto-hotspot-agent/agents/openai.yaml",
@@ -26,6 +31,16 @@
       "path": "skill/emoto-hotspot-agent/assets/hotspot-agent-icon.svg",
       "bytes": 977,
       "sha256": "911b37b4c0bdb88bec112a1b7d3d4a377928e9eed885b29eb4c3fa7c41e05245"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/README.en.md",
+      "bytes": 2257,
+      "sha256": "3a7accfb3bbb7cb73897d036714d540a3e09bfb3e30290a56fd311d50cc85395"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/README.md",
+      "bytes": 2095,
+      "sha256": "a178422ed63609b0c9c68bd9c208ea879ca5b8e43dca6ef6811a9b7bb33e95e8"
     },
     {
       "path": "skill/emoto-hotspot-agent/references/judging-rubric.md",
