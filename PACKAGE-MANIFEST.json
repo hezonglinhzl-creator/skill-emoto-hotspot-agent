@@ -1,0 +1,76 @@
+{
+  "files": 14,
+  "bytes": 44113,
+  "entries": [
+    {
+      "path": ".gitignore",
+      "bytes": 527,
+      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "install.ps1",
+      "bytes": 646,
+      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 927,
+      "sha256": "a980b0f0c8c333dfa323c51a95aaadd3cb3e5587bad98045f0d6167a91bf72fb"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/agents/openai.yaml",
+      "bytes": 416,
+      "sha256": "0e3a5f725644031585018a1694bb1ec106f9b501a801114c554a7488e118cb4a"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/assets/hotspot-agent-icon.svg",
+      "bytes": 977,
+      "sha256": "911b37b4c0bdb88bec112a1b7d3d4a377928e9eed885b29eb4c3fa7c41e05245"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/references/judging-rubric.md",
+      "bytes": 2849,
+      "sha256": "01de07f4943f10269f3912d5fd483f083ea690fbd62dfda605e0006e35fa6c39"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/references/report-template.md",
+      "bytes": 1277,
+      "sha256": "16b7490a5e0c7fbffc309531369be73444dcd54766020ff2ee36de40c39badbc"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/references/source-scan-queries.md",
+      "bytes": 2165,
+      "sha256": "d7deb7e90595893fd105ce0b85d2901c11a00e5c0564e830a1da8cfb1254b9ce"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/references/visual-verification.md",
+      "bytes": 1612,
+      "sha256": "67b091db457b4943ea6dcd1c6f5aacfdf612282cd6d14659baf10772ea1d8811"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/run_daily_report.bat",
+      "bytes": 73,
+      "sha256": "30d6ccebd71d2a4c87acb641ac1cb373b7077d52c7eda5897cd96748dfe30071"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/scripts/run_daily_report.py",
+      "bytes": 24156,
+      "sha256": "7dfcbf7f368722d660e98b5fe37f1e812c18774bbab062a9118ec1f30f2967b0"
+    },
+    {
+      "path": "skill/emoto-hotspot-agent/SKILL.md",
+      "bytes": 8288,
+      "sha256": "7ccd926962df84b30fe39c49eda8891bc58df570309d555022b385a61635c64b"
+    },
+    {
+      "path": "安装Skill.cmd",
+      "bytes": 105,
+      "sha256": "ad77696738bfb2f92f802e0941c18cb906baad9989a604536cfc81a60e176d1a"
+    },
+    {
+      "path": "打开程序文件夹.cmd",
+      "bytes": 95,
+      "sha256": "c4f42f3bec05b83599d984b3c79328e6fc93fb2be392fea35477918acd16759d"
+    }
+  ]
+}
