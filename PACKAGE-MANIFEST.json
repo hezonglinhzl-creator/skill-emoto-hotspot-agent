@@ -1,26 +1,26 @@
 {
   "files": 17,
-  "bytes": 54067,
+  "bytes": 57356,
   "entries": [
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "README.en.md",
-      "bytes": 3397,
-      "sha256": "c853d782ba1b46c021f49092300084c5f625ec311cbd77ec65b094f582bbeef4"
+      "bytes": 3687,
+      "sha256": "604f743d935b60ae201e689efc24563c45ef9f5a7e8d211fc4f54f7096543d5f"
     },
     {
       "path": "README.md",
-      "bytes": 3132,
-      "sha256": "de03121e0c264095b4e775d0f38d2ab95a11284424a3f6c20f4e4a5ead045f8d"
+      "bytes": 3368,
+      "sha256": "1511f08ff0ae929819111334e481036b5b9798c62b15b6c2aed4d66151ba60f2"
     },
     {
       "path": "skill/emoto-hotspot-agent/agents/openai.yaml",
@@ -74,8 +74,8 @@
     },
     {
       "path": "skill/emoto-hotspot-agent/SKILL.md",
-      "bytes": 8288,
-      "sha256": "7ccd926962df84b30fe39c49eda8891bc58df570309d555022b385a61635c64b"
+      "bytes": 9333,
+      "sha256": "92023e4f5b74f9f4456d83ff4a35702b7507b1838ef763d0d35b0dab105c400a"
     },
     {
       "path": "安装Skill.cmd",
